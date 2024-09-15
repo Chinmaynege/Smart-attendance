@@ -1,0 +1,94 @@
+
+.login{
+    margin: 0px auto; 
+    max-width: 200px;
+    padding: 5px;
+  }
+  .login input[type="text"]{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    outline: 0;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    background-color: #e8eeef;
+    color:#0d0e0f;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+  }
+  .login input[type="text"]:focus{
+    background: #d2d9dd;
+  }
+  .login input[type="password"]{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    outline: 0;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    background-color: #e8eeef;
+    color:#0d0e0f;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+  }
+  .login input[type="password"]:focus{
+    background: #d2d9dd;
+  } 
+  .login input[type="text"]{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    outline: 0;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    background-color: #e8eeef;
+    color:#0d0e0f;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+  }
+  .login input[type="text"]:focus{
+    background: #d2d9dd;
+  }
+  .login button {
+    position: relative;
+    display: block;
+    padding: 8px;
+    color: #FFF;
+    margin: 0 auto;
+    background: #4480a6;
+    font-size: 14px;
+    text-align: center;
+    font-style: normal;
+    width: 100%;
+    border: 1px solid #4480a6;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+  }
+  
+  .login button:hover {
+    background: #d2d9dd;
+  }
